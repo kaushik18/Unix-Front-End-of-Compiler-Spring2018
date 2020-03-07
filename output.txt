@@ -1,0 +1,54 @@
+<FirstName>F.</FirstName>
+<LastName>Flinstone</LastName>
+<HouseNumber>5806</HouseNumber>
+StreetName>PebbleRd</StreetName>
+AptNum>345</AptNum>
+<City>Stonecity</City>
+State>TX</State>
+<Zip5>75080</Zip5>
+
+syntax error
+<HouseNumber>5806</HouseNumber>
+StreetName>PebbleRd</StreetName>
+AptNum>345</AptNum>
+<City>Stonecity</City>
+State>TX</State>
+<Zip5>75080</Zip5>
+
+syntax error
+syntax error
+<HouseNumber>106</HouseNumber>
+syntax error
+<City>Stonecity</City>
+State>TX</State>
+<Zip5>75080</Zip5>
+
+syntax error
+syntax error
+<HouseNumber>106</HouseNumber>
+syntax error
+<City>Stonecity</City>
+State>TX</State>
+<Zip5>75080</Zip5>
+
+syntax error
+<HouseNumber>9000</HouseNumber>
+StreetName>SomeStreet</StreetName>
+<City>Dallas</City>
+State>TX</State>
+<Zip5>75080</Zip5>
+
+syntax error
+syntax error
+syntax error
+<City>Gotham</City>
+State>TX</State>
+<Zip5>88234</Zip5>
+
+syntax error
+syntax error
+<HouseNumber>1000</HouseNumber>
+StreetName>GothamManor</StreetName>
+<City>Gotham</City>
+State>TX</State>
+syntax error
